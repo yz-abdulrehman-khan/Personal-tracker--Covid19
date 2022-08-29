@@ -1,16 +1,14 @@
 ===== Setup =====
 
-2. Open terminal, type the following command
+2. Open 2 terminals, type the following command
    
    - npm i 
+
+Terminal 1: 
    - npm start
 
-3. Open new terminal I have also implemented a mock server using node.js/express, 
-   to make it as realistic as possible. 
-
+Terminal 2: 
    - npm start
-   - npm run server
-
 
 IMPORTANT NOTE !!!
   
@@ -28,7 +26,7 @@ High Level Repo Architecture
 │	│   ├── pages         # App Screens/Containers/Components with routes. 
 │	│   ├── styles        # App global styles + constants
 │	│   ├── utils         # App config + helper functions
-├── api-server 		    # Mock APi server 
+├── server 		          # Mock APi server 
 
 
 
