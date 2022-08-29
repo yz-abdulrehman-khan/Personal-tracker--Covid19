@@ -26,7 +26,7 @@ High Level Repo Architecture
 │	│   ├── pages         # App Screens/Containers/Components with routes. 
 │	│   ├── styles        # App global styles + constants
 │	│   ├── utils         # App config + helper functions
-├── server              # Mock APi server 
+├── server                 # Mock APi server 
 
 
 
