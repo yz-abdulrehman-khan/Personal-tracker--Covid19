@@ -8,7 +8,7 @@ Terminal 1:
    - npm start
 
 Terminal 2: 
-   - npm start
+   - npm run server
 
 IMPORTANT NOTE !!!
   
