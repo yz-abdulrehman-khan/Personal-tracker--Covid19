@@ -58,7 +58,6 @@ What needs to be done ?
 
 1. The user can group the list of “meetings” by date or person.
 2. The user can define a date range and will get all the persons they have met
-  - 
 
 Queries ? 
 
