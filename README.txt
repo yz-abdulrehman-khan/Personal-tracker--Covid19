@@ -1,7 +1,5 @@
 ===== Setup =====
 
-1. Extract provided .zip
-
 2. Open terminal, type the following command
    
    - npm i 
@@ -9,15 +7,14 @@
 
 3. Open new terminal I have also implemented a mock server using node.js/express, 
    to make it as realistic as possible. 
-   
-   - cd "api-server"
-   - npm i
+
    - npm start
+   - npm run server
 
 
 IMPORTANT NOTE !!!
   
-   - "api-server" needs run, in order for the app to work properly.
+   - "server" needs run, in order for the app to work properly.
 
  
 High Level Repo Architecture
